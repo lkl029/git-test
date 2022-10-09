@@ -6,5 +6,6 @@ public class News {
         System.out.println("mmmm");
         System.out.println("222222");
         System.out.println("333333");
+        System.out.println("hot-fix test");
     }
 }
