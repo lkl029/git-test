@@ -7,5 +7,6 @@ public class News {
         System.out.println("222222");
         System.out.println("333333");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
